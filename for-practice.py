@@ -57,3 +57,15 @@ for item in items:
 html_str += '</ul>'
 
 print(html_str)
+
+
+screen_split()
+print('# colors')
+
+colors = ['Red', 'Blue', 'Green', 'Purple']
+lower_colors = []
+
+for color in colors:
+    lower_colors.append(color.lower())
+
+print(lower_colors)
