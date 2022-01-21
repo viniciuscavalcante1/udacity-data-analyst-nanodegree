@@ -1,4 +1,4 @@
-how_many_snakes = 5
+how_many_snakes = 1
 snake_string = """
 Welcome to Python3!
 
@@ -9,7 +9,7 @@ Welcome to Python3!
    __________/ /
 -=:___________/
 
-<3
+<3, Juno
 """
 
 
