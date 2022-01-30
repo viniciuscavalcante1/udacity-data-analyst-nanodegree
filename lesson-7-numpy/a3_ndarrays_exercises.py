@@ -10,7 +10,7 @@ size of array
 """
 
 import numpy as np
-letter_array = np.array(['a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j'])
+letter_array = np.array(['a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'k'])
 print("Letter Array: ", letter_array)
 
 print("Array dtype: ", letter_array.dtype)
